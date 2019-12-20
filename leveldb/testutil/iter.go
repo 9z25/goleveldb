@@ -12,7 +12,7 @@ import (
 
 	. "github.com/onsi/gomega"
 
-	"github.com/btcsuite/goleveldb/leveldb/iterator"
+	"github.com/9z25/goleveldb/leveldb/iterator"
 )
 
 type IterAct int
