@@ -13,9 +13,9 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/btcsuite/goleveldb/leveldb/filter"
-	"github.com/btcsuite/goleveldb/leveldb/opt"
-	"github.com/btcsuite/goleveldb/leveldb/storage"
+	"github.com/9z25/goleveldb/leveldb/filter"
+	"github.com/9z25/goleveldb/leveldb/opt"
+	"github.com/9z25/goleveldb/leveldb/storage"
 )
 
 const ctValSize = 1000
