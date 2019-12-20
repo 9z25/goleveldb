@@ -3,7 +3,7 @@ package memdb
 import (
 	"testing"
 
-	"github.com/btcsuite/goleveldb/leveldb/testutil"
+	"github.com/9z25/goleveldb/leveldb/testutil"
 )
 
 func TestMemDB(t *testing.T) {
